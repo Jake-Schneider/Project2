@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Voter Registration">0163c3d8db884010ac38dde74896199a</sc_cat_item>
+        <sc_catalog display_value="Hillsborough Catalog">53bc4210dbc44010ac38dde748961997</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 19:51:16</sys_created_on>
+        <sys_id>f28347d8db884010ac38dde748961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hillsborough Catalog.Voter Registration</sys_name>
+        <sys_package display_value="Project 2" source="x_393642_project_2">13a33988db440010ac38dde748961923</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project 2">13a33988db440010ac38dde748961923</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_f28347d8db884010ac38dde748961920</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 19:51:16</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project 2">13a33988db440010ac38dde748961923</application>
+        <file_path/>
+        <instance_id>8ad80b85db87d3c00e785d00cf9619aa</instance_id>
+        <instance_name>dev63061</instance_name>
+        <name>sc_cat_item_catalog_f28347d8db884010ac38dde748961920</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Voter Registration">0163c3d8db884010ac38dde74896199a</sc_cat_item><sc_catalog display_value="Hillsborough Catalog">53bc4210dbc44010ac38dde748961997</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-18 19:51:16</sys_created_on><sys_id>f28347d8db884010ac38dde748961920</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hillsborough Catalog.Voter Registration</sys_name><sys_package display_value="Project 2" source="x_393642_project_2">13a33988db440010ac38dde748961923</sys_package><sys_policy/><sys_scope display_value="Project 2">13a33988db440010ac38dde748961923</sys_scope><sys_update_name>sc_cat_item_catalog_f28347d8db884010ac38dde748961920</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-18 19:51:16</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1232263197</payload_hash>
+        <record_name>Hillsborough Catalog.Voter Registration</record_name>
+        <reverted_from/>
+        <source>9fa3fd88db440010ac38dde7489619a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 19:51:16</sys_created_on>
+        <sys_id>328387d8db884010ac38dde74896197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d45edd2990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 19:51:16</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7a8387d88088401000d043703dbca67e</update_guid>
+        <update_guid_history>7a8387d88088401000d043703dbca67e:1232263197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hillsborough Catalog.Voter Registration">fb7dc394dbc84010ac38dde74896195e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 20:34:45</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>7fd50e13565242ac9fcfc4c3aaf60629</sys_id>
+        <sys_metadata>f28347d8db884010ac38dde748961920</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hillsborough Catalog.Voter Registration</sys_name>
+        <sys_package display_value="Project 2" source="x_393642_project_2">13a33988db440010ac38dde748961923</sys_package>
+        <sys_parent display_value="">0163c3d8db884010ac38dde74896199a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Project 2">13a33988db440010ac38dde748961923</sys_scope>
+        <sys_scope_delete display_value="">0a994d1fb2e740c4aa693633fb1de7e4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_f28347d8db884010ac38dde748961920</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_f28347d8db884010ac38dde748961920">328387d8db884010ac38dde74896197f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 20:34:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
