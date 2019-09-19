@@ -10,9 +10,7 @@
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<p>Fill out voter registration information</p>]]></description>
-        <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow/>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
@@ -47,7 +45,7 @@
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
         <request_method>submit</request_method>
-        <roles/>
+        <roles>snc_internal</roles>
         <sc_catalogs>53bc4210dbc44010ac38dde748961997</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
