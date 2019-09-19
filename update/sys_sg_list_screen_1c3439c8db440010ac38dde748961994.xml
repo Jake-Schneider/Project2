@@ -4,10 +4,8 @@
         <available_offline>false</available_offline>
         <data_item/>
         <description> Widget</description>
-        <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>
-        <hide_filters>false</hide_filters>
         <icon display_value="icon-Address-Book">d434b988db440010ac38dde748961953</icon>
         <item_view/>
         <name>Widgets</name>

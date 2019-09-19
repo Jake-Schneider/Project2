@@ -11,7 +11,7 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="1">c2634218db844010ac38dde74896197e</sp_column>
-        <sp_widget display_value="Catalog Items">2af40d7bb7a313007ebbe4b8ee11a975</sp_widget>
+        <sp_widget display_value="">2af40d7bb7a313007ebbe4b8ee11a975</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-18 16:05:47</sys_created_on>

@@ -3,7 +3,7 @@
         <child display_value="Voting Catalog Items">7864c258db844010ac38dde7489619cd</child>
         <cloned>2019-09-18 15:15:21</cloned>
         <last_validated>2019-09-18 15:15:21</last_validated>
-        <parent display_value="Catalog Items">2af40d7bb7a313007ebbe4b8ee11a975</parent>
+        <parent display_value="">2af40d7bb7a313007ebbe4b8ee11a975</parent>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sp_widget&gt;&lt;category&gt;custom&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function() {
   var c = this;
 }]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css/&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id&gt;catalog_items&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link&gt;&lt;![CDATA[function(scope,elem, attrs, ctrl,$location) {
