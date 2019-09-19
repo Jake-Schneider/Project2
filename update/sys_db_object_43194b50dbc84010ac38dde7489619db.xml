@@ -3,6 +3,7 @@
         <access>public</access>
         <actions_access>false</actions_access>
         <alter_access>false</alter_access>
+        <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>false</create_access>
@@ -31,6 +32,10 @@
         <sys_update_name>sys_db_object_43194b50dbc84010ac38dde7489619db</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-09-18 20:18:36</sys_updated_on>
+        <u_choice_1/>
+        <u_demo_field1/>
+        <u_demo_field2/>
+        <u_demo_field3/>
         <update_access>false</update_access>
         <user_role display_value="x_393642_project_2.voter_registration_tasks_user" name="x_393642_project_2.voter_registration_tasks_user">bec9cb90dbc84010ac38dde748961949</user_role>
         <ws_access>true</ws_access>
