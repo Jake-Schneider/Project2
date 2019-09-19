@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" extends="sys_metadata" label="hillsborough catalog" max_length="40" name="x_393642_project_2_hillsborough_catalog" type="collection"/>
-</database>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>hillsborough_catagories</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-19 14:02:18</sys_created_on>
+        <sys_id>a84dfaecdb888010ac38dde748961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hillsborough_catagories</sys_name>
+        <sys_package display_value="Project 2" source="x_393642_project_2">13a33988db440010ac38dde748961923</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project 2">13a33988db440010ac38dde748961923</sys_scope>
+        <sys_update_name>sp_page_a84dfaecdb888010ac38dde748961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-19 14:02:18</sys_updated_on>
+        <title>Hillsborough catagories - Test Page</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=a84dfaecdb888010ac38dde748961939"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project 2">13a33988db440010ac38dde748961923</application>
+        <file_path/>
+        <instance_id>8ad80b85db87d3c00e785d00cf9619aa</instance_id>
+        <instance_name>dev63061</instance_name>
+        <name>sp_page_a84dfaecdb888010ac38dde748961939</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><id>hillsborough_catagories</id><internal>false</internal><public>false</public><roles/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-19 14:02:18</sys_created_on><sys_id>a84dfaecdb888010ac38dde748961939</sys_id><sys_mod_count>0</sys_mod_count><sys_name>hillsborough_catagories</sys_name><sys_package display_value="Project 2" source="x_393642_project_2">13a33988db440010ac38dde748961923</sys_package><sys_policy/><sys_scope display_value="Project 2">13a33988db440010ac38dde748961923</sys_scope><sys_update_name>sp_page_a84dfaecdb888010ac38dde748961939</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-19 14:02:18</sys_updated_on><title>Hillsborough catagories - Test Page</title></sp_page><sys_translated_text action="delete_multiple" query="documentkey=a84dfaecdb888010ac38dde748961939"/></record_update>]]></payload>
+        <payload_hash>1018510113</payload_hash>
+        <record_name>hillsborough_catagories</record_name>
+        <reverted_from/>
+        <source>9fa3fd88db440010ac38dde7489619a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-19 14:02:18</sys_created_on>
+        <sys_id>e04dfaecdb888010ac38dde74896193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d49d4af900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-19 14:02:18</sys_updated_on>
+        <type>Page</type>
+        <update_guid>2c4dfaec78888010128c7bbff8ec333b</update_guid>
+        <update_guid_history>2c4dfaec78888010128c7bbff8ec333b:1018510113</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="hillsborough_catagories">fd348328dbc88010ac38dde74896194a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-19 14:32:42</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>454af21dd1644fd0a459c65bcfe52e40</sys_id>
+        <sys_metadata>a84dfaecdb888010ac38dde748961939</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hillsborough_catagories</sys_name>
+        <sys_package display_value="Project 2" source="x_393642_project_2">13a33988db440010ac38dde748961923</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Project 2">13a33988db440010ac38dde748961923</sys_scope>
+        <sys_scope_delete display_value="">0a994d1fb2e740c4aa693633fb1de7e4</sys_scope_delete>
+        <sys_update_name>sp_page_a84dfaecdb888010ac38dde748961939</sys_update_name>
+        <sys_update_version display_value="sp_page_a84dfaecdb888010ac38dde748961939">e04dfaecdb888010ac38dde74896193c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-19 14:32:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
