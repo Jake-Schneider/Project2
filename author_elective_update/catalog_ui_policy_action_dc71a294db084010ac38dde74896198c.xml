@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item/>
+        <catalog_variable>IO:1d0f92c0db080010ac38dde748961956</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 17:22:17</sys_created_on>
+        <sys_id>dc71a294db084010ac38dde74896198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new_registration</sys_name>
+        <sys_package display_value="Project 2" source="x_393642_project_2">13a33988db440010ac38dde748961923</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project 2">13a33988db440010ac38dde748961923</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_dc71a294db084010ac38dde74896198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 17:22:17</sys_updated_on>
+        <table/>
+        <ui_policy display_value="only 1 this is:">d871a294db084010ac38dde74896198a</ui_policy>
+        <variable>new_registration</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project 2">13a33988db440010ac38dde748961923</application>
+        <file_path/>
+        <instance_id>8ad80b85db87d3c00e785d00cf9619aa</instance_id>
+        <instance_name>dev63061</instance_name>
+        <name>catalog_ui_policy_action_dc71a294db084010ac38dde74896198c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item/><catalog_variable>IO:1d0f92c0db080010ac38dde748961956</catalog_variable><cleared>true</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-18 17:22:17</sys_created_on><sys_id>dc71a294db084010ac38dde74896198c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>new_registration</sys_name><sys_package display_value="Project 2" source="x_393642_project_2">13a33988db440010ac38dde748961923</sys_package><sys_policy/><sys_scope display_value="Project 2">13a33988db440010ac38dde748961923</sys_scope><sys_update_name>catalog_ui_policy_action_dc71a294db084010ac38dde74896198c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-18 17:22:17</sys_updated_on><table/><ui_policy display_value="only 1 this is:">d871a294db084010ac38dde74896198a</ui_policy><variable>new_registration</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-700391630</payload_hash>
+        <record_name>new_registration</record_name>
+        <reverted_from/>
+        <source>9fa3fd88db440010ac38dde7489619a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 17:22:17</sys_created_on>
+        <sys_id>d471a294db084010ac38dde74896199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d456569ce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 17:22:17</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>1071a294b00840108053d4a032739c9b</update_guid>
+        <update_guid_history>1071a294b00840108053d4a032739c9b:-700391630</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="new_registration">d7bc4f54dbc84010ac38dde7489619cb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 20:31:27</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>3803af1e9c664ba09e87493361e0a410</sys_id>
+        <sys_metadata>dc71a294db084010ac38dde74896198c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new_registration</sys_name>
+        <sys_package display_value="Project 2" source="x_393642_project_2">13a33988db440010ac38dde748961923</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Project 2">13a33988db440010ac38dde748961923</sys_scope>
+        <sys_scope_delete display_value="">0a994d1fb2e740c4aa693633fb1de7e4</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_dc71a294db084010ac38dde74896198c</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_dc71a294db084010ac38dde74896198c">d471a294db084010ac38dde74896199b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 20:31:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
